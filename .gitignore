@@ -1,0 +1,31 @@
+
+*.iml
+/local.properties
+/.idea/caches/build_file_checksums.ser
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+.DS_Store
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+.gradle
+
+build/
+.externalNativeBuild/
+
+# Log Files
+*.log
+
+# Intellij
+*.iml
+.idea/
+.idea/workspace.xml
